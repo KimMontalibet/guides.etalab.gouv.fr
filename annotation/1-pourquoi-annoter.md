@@ -107,7 +107,7 @@ libre, en permettant d'identifier où sont les noms et prénoms de personnes phy
 
 La structuration de la donnée permet de mieux connaître le jeu de données en rendant possible notamment: 
 - la réalisation d'opérations ou statistiques (moyennes, comptage par catégories, etc...)
-- la visualisation de certaines mértiques d'intérêt du jeu de données 
+- la visualisation de certaines métriques d'intérêt du jeu de données 
 - la recherche plus rapide d'une information précise (sélection d'un sous-ensemble selon un critère
 donné, tri selon une variable, etc...)
 
